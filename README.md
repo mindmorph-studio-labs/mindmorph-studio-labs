@@ -85,7 +85,6 @@ Je n'aime pas juste "écrire du code", j'aime comprendre comment les choses fonc
 <br>
 
 ---
-*(La section GitHub Stats & Activités reste ici en dessous)*
 
 ### 📊 GitHub Stats & Activités
 
