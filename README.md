@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Animated Developer Logo" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Animated Developer Logo" />
   <h1>Salut, je suis Sébastien 👋</h1>
   <h3>Fondateur de MindMorph Studio Labs • DataOps & ETL Engineer • Développeur Web & IA Builder</h3>
   <p><em>Je conçois des architectures web performantes, des pipelines de données (ETL/DataOps) industriels et des solutions IA à forte valeur métier.</em></p>
