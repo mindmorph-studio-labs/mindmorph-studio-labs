@@ -73,8 +73,8 @@ Basé en France et inspiré par la culture entrepreneuriale, je développe des a
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindmorph-studio-labs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindmorph-studio-labs&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mindmorph-studio-labs&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindmorph-studio-labs&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </div>
 
 ---
