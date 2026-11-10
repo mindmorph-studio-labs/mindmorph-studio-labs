@@ -74,15 +74,15 @@ Basé en France et inspiré par la culture entrepreneuriale, je développe des a
 ### 📊 GitHub Stats & Activités
 
 <div align="center">
-  <!-- Ligne 1 : Détails du profil + Langues -->
+  <!-- Ligne 1 : Détails + Langues -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mindmorph-studio-labs&theme=radical" alt="Profile Details" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mindmorph-studio-labs&theme=radical" alt="Top Languages" width="49%" />
   
   <br><br>
   
-  <!-- Ligne 2 : Série de commits + Trophées -->
+  <!-- Ligne 2 : Streak + Activity Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindmorph-studio-labs&theme=radical&hide_border=true" alt="Coding Streak" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mindmorph-studio-labs&theme=radical&no-frame=true&row=1&column=4" alt="GitHub Trophies" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindmorph-studio-labs&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="49%" />
 </div>
 
 ---
