@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/📍_Basé_en-France-blue?style=flat-square" alt="Location" />
+   <img src="https://img.shields.io/badge/📍_France_&_Jamaïque-blue?style=flat-square" alt="Location" />
     <img src="https://img.shields.io/badge/🧠_Mode_Actif-Apprentissage_&_Building-purple?style=flat-square" alt="Focus" />
   </p>
 </div>
