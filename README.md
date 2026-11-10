@@ -1,75 +1,91 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Animated Developer Logo" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Animated Developer Logo" />
+  
   <h1>Salut, je suis Sébastien 👋</h1>
-  <h3>Fondateur de MindMorph Studio Labs • DataOps & ETL Engineer • Développeur Web & IA Builder</h3>
-  <p><em>Je conçois des architectures web performantes, des pipelines de données (ETL/DataOps) industriels et des solutions IA à forte valeur métier.</em></p>
+  <h3>Builder • Codeur passionné • Explorateur Tech @ MindMorph Studio Labs</h3>
+  
+  <p align="center">
+    <em>Je ne me définis pas par un titre, mais par ce que je construis. J'aime coder, réfléchir à des architectures, et transformer des idées en projets concrets qui ont du sens.</em>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/📍_Basé_en-France-blue?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/🧠_Mode_Actif-Apprentissage_&_Building-purple?style=flat-square" alt="Focus" />
+  </p>
 </div>
 
----
+<br>
 
-### 🧑🏾‍💻 À propos de moi
-Fondateur de **MindMorph Studio Labs**, un studio indépendant dédié à l'ingénierie web, au **traitement de données à forte valeur perçue (Data Curation / ETL)** et à l'intégration d'IA. 
-
-Basé en France et inspiré par la culture entrepreneuriale, je développe des architectures web de niche et des outils SaaS/CRM. Mon cœur d'expertise réside dans la **transformation de données brutes volumineuses en bases qualifiées et exploitables**, prêtes pour l'indexation SEO et l'enrichissement applicatif.
+> 💡 *"La donnée brute n'a pas de valeur. C'est en la nettoyant, la structurant et l'automatisant qu'on crée quelque chose d'utile."*
 
 ---
 
-### 🌐 Liens utiles
-- 🌐 **Site web** : [mindmorph.dev](https://mindmorph.dev) *(Bientôt disponible)*
-- 📂 **Portfolio & Lab** : [github.com/mindmorph-studio-labs](https://github.com/mindmorph-studio-labs)
+### 🧠 Ma Vibe & Mon Approche
+
+Je suis un développeur curieux et autodidacte. Mon moteur ? **La résolution de problèmes et l'apprentissage continu.** 
+
+Je n'aime pas juste "écrire du code", j'aime comprendre comment les choses fonctionnent pour mieux les assembler. Que ce soit pour concevoir un pipeline ETL qui nettoie des milliers de lignes, ou pour monter une interface web rapide et propre, mon objectif est toujours le même : **créer des outils efficaces, bien pensés et utiles.**
 
 ---
 
-### 🚀 Domaines d'Impact & Actuellement
-- 🧹 **Pipelines DataOps & ETL Python** : Conception de moteurs de déduplication, filtrage sémantique, contrôle de dérive géographique et scoring de qualité pour la publication web.
-- 🏗️ **LOWKALY** : Développement d'un CRM métier tout-en-un pour les entreprises de nettoyage (FR & JA).
-- 🌍 **Digital BlueWave JA** : Accélération de la digitalisation des PME et acteurs locaux en Jamaïque.
-- 🤖 **IA & Automation** : Intégration d'agents intelligents (Mistral AI, Claude, OpenAI) et d'automatisations No-Code/Low-Code (Make, n8n, Airtable).
+### 🚀 Ce sur quoi je bosse en ce moment
+
+- 🧹 **Data Pipelines** : Scripts Python (Pandas, PyArrow) pour scraper, dédoublonner et scorer des données brutes. (Parce que la donnée sale, c'est l'ennemi).
+- 🏗️ **LOWKALY** : Construction d'un CRM SaaS sur mesure pour les pros du nettoyage (Marchés FR & JA).
+- 🌍 **Digital BlueWave JA** : Aider les petites structures et artisans en Jamaïque à passer au numérique.
+- 🤖 **Expérimentations IA** : Tester et intégrer des API (Mistral, Claude) et de l'automatisation (Make, n8n) pour voir jusqu'où on peut pousser les workflows intelligents.
 
 ---
 
-### 🧠 Tech Stack
+### 📚 En ce moment, j'apprends & j'explore
+- L'optimisation des formats de données (Parquet vs CSV) pour des pipelines plus rapides.
+- Les nouvelles architectures Next.js (App Router, Server Actions).
+- La création d'agents IA autonomes pour des tâches répétitives.
 
-#### 📊 DataOps, ETL & Python
+---
+
+### 🛠️ Ma Boîte à Outils (Tech Stack)
+
+#### 🐍 Data & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Airtable API](https://img.shields.io/badge/Airtable_API-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### 📝 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 💻 Web & Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🎨 Frontend & Static Sites
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend & Storage
+#### ⚙️ Backend & BaaS (Base de données)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-#### 🤖 AI, Automation & Cloud
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6B23E6?style=for-the-badge&logo=integromat&logoColor=white)
+#### ☁️ Déploiement & Automation
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6B23E6?style=for-the-badge&logo=integromat&logoColor=white)
 
 ---
 
-### 📂 Projets & Architectures
-- 🧹 **Directory Data Pipelines** : Scripts d'ingestion Python (Pandas + PyAirtable) nettoyant et enrichissant des milliers de fiches métiers pour des annuaires haute qualité.
-- 🟦 **LOWKALY** : Plateforme locale + CRM SaaS pour services de nettoyage (FR & JA).
-- 🌍 **Digital BlueWave JA** : Écosystème d'outils digitaux pour entrepreneurs jamaïcains.
-- ⚡ **MindMorph Tools** : Micro-services, scripts d'automatisation et modules d'IA.
+### 🔗 Me connecter & voir mes projets
+
+<div align="center">
+  <a href="https://github.com/mindmorph-studio-labs" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Mes_Projets-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://mindmorph.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Site_Web-mindmorph.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site Web" />
+  </a>
+  <a href="mailto:contact@mindmorph.dev">
+    <img src="https://img.shields.io/badge/✉️_Me_Contacter-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
 
 ---
+*(La section GitHub Stats & Activités reste ici en dessous)*
 
 ### 📊 GitHub Stats & Activités
 
